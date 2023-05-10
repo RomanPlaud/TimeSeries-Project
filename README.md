@@ -2,7 +2,7 @@
 Project realised for the MVA course "Machine Learning for Time Series" supervised by Laurent Oudre and Charles Truong. Project is based on [**"Soft-DTW: a Differentiable Loss Function for Time-Series"**](https://arxiv.org/pdf/1703.01541.pdf). 
 
 ## Report
-Report with our contributions to find [here](https://github.com/RomanPlaud/TimeSeries-Project/blob/master/Time_series_report.pdf).
+Report with our contributions [here](https://github.com/RomanPlaud/TimeSeries-Project/blob/master/Time_series_report.pdf).
 
 ## Contributions
 Our work focuses on reproducing the performances of the paper on specific datasets 50words for classification and ECG5000 for time series prediction.
