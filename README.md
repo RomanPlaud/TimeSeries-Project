@@ -8,7 +8,7 @@ Report with our contributions [here](https://github.com/RomanPlaud/TimeSeries-Pr
 Our work focuses on reproducing the performances of the paper on specific datasets 50words for classification and ECG5000 for time series prediction.
 
 ## Code
-Our code can be found [here](https://github.com/RomanPlaud/TimeSeries-Project/blob/master/notebook.ipynb)
+We were asked to provide an notebook which can be found [here](https://github.com/RomanPlaud/TimeSeries-Project/blob/master/notebook.ipynb).
 Our implementation partly relies on [https://github.com/google-research/soft-dtw-divergences](https://github.com/google-research/soft-dtw-divergences)
 
 ### Grade 
